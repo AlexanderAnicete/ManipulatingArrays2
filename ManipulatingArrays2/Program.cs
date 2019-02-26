@@ -34,7 +34,7 @@ namespace ManipulatingArrays2
             }
             Console.WriteLine("}");
             
-            
+            //;k;lk'
             
         }
         // This method rotates arrays receiving whatever direction, "left" or "right", the amount of spaces to move, and the array to rotate. 
